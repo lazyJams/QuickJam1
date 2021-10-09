@@ -7,6 +7,7 @@
 	<inherits name="net.lazyio.engine.Engine" />
 	<inherits name="regexodus" />
 	<inherits name="com.gempukku.libgdx.lib"/>
+	<inherits name="space.earlygrey.shapedrawer"/>
 	<entry-point class="net.lazyio.quickjam.gwt.GwtLauncher" />
 	<set-configuration-property name="gdx.assetpath" value="../assets" />
 	<set-configuration-property name="xsiframe.failIfScriptTag" value="FALSE"/>

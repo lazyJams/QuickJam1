@@ -1,4 +1,4 @@
-package net.lazyio.engine.particle;
+package net.lazyio.engine.graphics.particle;
 
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
